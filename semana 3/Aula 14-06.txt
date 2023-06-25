@@ -1,0 +1,31 @@
+--> Para armazenar códigos em arquivo:
+* Site DONTPAD: dontpad.com
+
+----
+----
+
+--> Bootstrap:
+- Regras:
+* Como colocar o Bootstrap pra funcionar no site 
+   - DOCS (Documentação do Bootstrap).
+   - Preciso da página em HTML para colocar o Bootstrap. 
+   - 
+
+* O que faz o Bootstrap funcionar é a linha de código 
+<link href= ....(css)....> (no head)
+&
+<script src = ....(js)....> (sempre ultimo comando no body)
+
+--> Folhas de Estilo  CSS 
+
+ Ex:
+
+  <style>
+        .red {background-color: red}
+        .blue {background-color: blue}
+        * border-radius:10px (pra colocar borda arredondada)
+  </style>
+
+* O ".red" é uma classe, este ponto define classe. 
+* Se fosse # seria div 
+
